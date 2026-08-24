@@ -1,0 +1,5 @@
+access specifiers
+private - class scope of visibility and accessibility
+public - application scope of visibility and accessibility
+protected - hierarchical scope of visibility and accessibility
+default/package - package scope of visibility and accessibility
